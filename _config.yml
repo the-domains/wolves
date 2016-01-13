@@ -1,0 +1,28 @@
+name: WolVes
+favicon: null
+layout_spectrum: 0.20350592490285635
+typography_spectrum: 0.4238607578445226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22571429749950767
+  lightness: 0.48061728361062706
+  saturation: 0.1778186245355755
+  rhythmicContrast: 0.268359700916335
+purpose: []
