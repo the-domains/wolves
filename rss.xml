@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[WolVes]]></title>
         <description><![CDATA[WolVes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolves/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 23:47:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 23:50:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolves/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35c37d47-0405-421a-9325-b4cb354c3469.jpg">]]></description>
-            <link>undefineddb7deb38-7454-49fb-94d9-6cd9d0c1a123/index.html</link>
+            <link>https://thegrid.ai/wolves/db7deb38-7454-49fb-94d9-6cd9d0c1a123/index.html</link>
             <guid isPermaLink="false">db7deb38-7454-49fb-94d9-6cd9d0c1a123</guid>
-            <pubDate>Wed, 13 Jan 2016 23:47:47 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 23:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
